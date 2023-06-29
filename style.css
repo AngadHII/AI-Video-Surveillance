@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+    font-family: cursive;
+}
+
+#start, #status, #number_of_objects{
+    font-size: 18px;
+}
+
+canvas{
+    border: 2px solid aqua;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 130px;
+    border-radius:20px;
+}
+
+.footer{
+bottom: 0;
+position: fixed;
+color: black;
+background-color: aqua;
+font-size: 20px;
+text-align: center;
+font-family: cursive;
+line-height: 3;
+width: 100%;
+}
